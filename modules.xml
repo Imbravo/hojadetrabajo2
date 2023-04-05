@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/DataspellProjects/.idea/DataspellProjects.iml" filepath="$USER_HOME$/DataspellProjects/.idea/DataspellProjects.iml" />
+      <module fileurl="file://$USER_HOME$/DataspellProjects/dataspell/.idea/dataspell.iml" filepath="$USER_HOME$/DataspellProjects/dataspell/.idea/dataspell.iml" />
+      <module fileurl="file://$USER_HOME$/DataspellProjects/hojadetrabajo1/.idea/hojadetrabajo1.iml" filepath="$USER_HOME$/DataspellProjects/hojadetrabajo1/.idea/hojadetrabajo1.iml" />
+      <module fileurl="file://$USER_HOME$/DataspellProjects/hojadetrabajo2/.idea/hojadetrabajo2.iml" filepath="$USER_HOME$/DataspellProjects/hojadetrabajo2/.idea/hojadetrabajo2.iml" />
+      <module fileurl="file://$USER_HOME$/DataspellProjects/laboratorio3/.idea/laboratorio3.iml" filepath="$USER_HOME$/DataspellProjects/laboratorio3/.idea/laboratorio3.iml" />
+      <module fileurl="file://$USER_HOME$/DataspellProjects/linearregression/.idea/linearregression.iml" filepath="$USER_HOME$/DataspellProjects/linearregression/.idea/linearregression.iml" />
+      <module fileurl="file://$USER_HOME$/DataspellProjects/mentalhealth/.idea/mentalhealth.iml" filepath="$USER_HOME$/DataspellProjects/mentalhealth/.idea/mentalhealth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/workspace.iml" filepath="$PROJECT_DIR$/.idea/workspace.iml" />
+    </modules>
+  </component>
+</project>

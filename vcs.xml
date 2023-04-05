@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.idea" vcs="Git" />
+    <mapping directory="$USER_HOME$/DataspellProjects/hojadetrabajo1" vcs="Git" />
+    <mapping directory="$USER_HOME$/DataspellProjects/hojadetrabajo2" vcs="Git" />
+    <mapping directory="$USER_HOME$/DataspellProjects/laboratorio3" vcs="Git" />
+    <mapping directory="$USER_HOME$/DataspellProjects/linearregression" vcs="Git" />
+    <mapping directory="$USER_HOME$/DataspellProjects/mentalhealth" vcs="Git" />
+  </component>
+</project>
